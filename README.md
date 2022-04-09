@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mj-ehsan
-- 👀 I’m interested in rendering
-- 🌱 I’m currently learning nothing related to coding!
+- 👀 I’m in love with rendering
+- 🌱 average HLSL enjoyer
 
 <!---
 mj-ehsan/mj-ehsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
